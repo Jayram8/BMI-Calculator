@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
         Button btnCalculate;
         TextView txtResult;
 
+        //demo
         edtWeight = findViewById(R.id.edtWeight);
         edtHeightFt = findViewById(R.id.edtHeightFt);
         edtHeightIn = findViewById(R.id.edtHeightIn);
